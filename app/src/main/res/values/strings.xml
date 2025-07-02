@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Brokenithm</string>
+
+    <string name="title">Brokenithm-Evolved</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="coin">coin</string>
+    <string name="card">card</string>
+    <string name="simple_air">Simple Air</string>
+    <string name="expand"> Control ↓ </string>
+    <string name="collapse"> Control ↑ </string>
+    <string name="test">Test</string>
+    <string name="service">Service</string>
+    <string name="show_debug_info">Debug</string>
+    <string name="debug_info">touched: air:%d %s size:%f\n%s</string>
+    <string name="current_latency">Current Latency: %f ms</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="show_delay">Show Delay</string>
+    <string name="address">Address</string>
+    <string name="enable_vibration">Vibration</string>
+
+    <string name="tcp">TCP</string>
+    <string name="udp">UDP</string>
+
+    <string name="disable_air">Disable Air</string>
+    <string name="gyro_air">Gyro Air</string>
+    <string name="accel_air">Accel Air</string>
+    <string name="touch_air">Touch Air</string>
+    <string name="enable_air">Enable Air</string>
+
+    <string name="settings">Settings</string>
+    <string name="gyro_air_highest">Gyro Air Highest Bound</string>
+    <string name="accel_air_threshold">Accel Air Threshold</string>
+    <string name="gyro_air_lowest">Gyro Air Lowest Bound</string>
+    <string name="extra_fat_touch_threshold">Extra Fat Touch Threshold</string>
+    <string name="fat_touch_threshold">Fat Touch Threshold</string>
+    <string name="enable_touch_size">Enable Touch Size Check</string>
+    <string name="enable_nfc">Enable NFC</string>
+    <string name="enable_vibrate">Enable Vibration</string>
+</resources>
